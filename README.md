@@ -27,7 +27,7 @@
   <img align="center" alt="SQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img align="center" alt="jira" src=	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white /> 
-
+ <img src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif" <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 
 </div> 
 </div><br/>
