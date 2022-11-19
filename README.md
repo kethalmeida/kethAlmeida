@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-## Minhas redes
+⭐️ Minhas redes
 
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -19,7 +19,7 @@
   
 
    
-## Tecnologias que eu uso no meu dia
+⭐️ Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
@@ -27,6 +27,8 @@
   <img align="center" alt="SQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img align="center" alt="jira" src=	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white /> 
+
+
 </div> 
 </div><br/>
  
