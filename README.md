@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
-- 👩‍💻 Estudando Testes manuais, Testes automatizados, Testes móveis e Lógica de programação. 
+## ⭐️ Sobre mim
+<div align='center'>
+  <b>“Se isso te assusta, vale a pena tentar.” – Seth Godin</b>
+</div><br>
+
+Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou em mim uma paixão pela Tecnologia. Atualmente estou estudando/cursando Teste e Qualidade de Software na Ultima.School, onde ao longo do curso aprendo sobre compreensão do ciclo de vida de desenvolvimento de software, elaboração de roteiro de teste e relatório de defeitos, uso de programação orientada a objetos entre outros tópicos que me preparam para o mercado de trabalho. 
 
 
 
@@ -32,7 +37,7 @@
   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img align="center" alt="jira"  src=	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />  
   <img align="right" alt="Keth-pic" height="150" style="border-radius:50px;" 
- <img src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif" width="150px" height="150px">
+ <img src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif">
 </div>
   
 </div> 
