@@ -15,25 +15,25 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-⭐️ Minhas redes
-
+</div>
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+        src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif">
+</div>
   
-   
-⭐️ Tecnologias que eu uso no meu dia
-
+  ##
+  
+ 
 <div style="display: inline_block">
   <img align="center" alt="html"src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
   <img align="center" alt="css" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white />
   <img align="center" alt="SQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img align="center" alt="jira"  src=	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />  
-  <img align="right" alt="Keth-pic" height="180" style="border-radius:100px;" 
-  <img src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif" >
 </div>
   
 </div> 
