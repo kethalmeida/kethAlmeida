@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
+
 ## 😃️ Sobre mim
 <div align='center'>
   <b>“Se isso te assusta, vale a pena tentar.” – Seth Godin</b>
@@ -10,10 +11,15 @@
 Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou em mim uma paixão pela Tecnologia. Atualmente estou estudando/cursando Teste e Qualidade de Software na Ultima.School, onde ao longo do curso aprendo sobre compreensão do ciclo de vida de desenvolvimento de software, elaboração de roteiro de teste e relatório de defeitos, uso de programação orientada a objetos entre outros tópicos que me preparam para o mercado de trabalho. 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=true&count_panda=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Kethler A Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=radical&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  #
+  #
 
 </div>
 <div> 
