@@ -21,12 +21,12 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   
 🟨 Contact:
 <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <img align="right" alt="keth-pic" height="180" style="border-radius:50px;" 
-        src="https://user-images.githubusercontent.com/116471568/202917849-af430482-af3f-486f-a14d-59cbd3c7b892.gif">
+   src="https://user-images.githubusercontent.com/116471568/202917849-af430482-af3f-486f-a14d-59cbd3c7b892.gif">
 </div>
     
   ##
@@ -50,7 +50,7 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <img align="center" alt="ADB" src=https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white>
 </div>
   
-</div> 
+
 </div><br/>
  
   ![Snake animation](https://github.com/kethalmeida/kethAlmeida/blob/output/github-contribution-grid-snake.svg)    
