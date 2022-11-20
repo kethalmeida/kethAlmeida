@@ -18,9 +18,10 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=radical&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  #
-  #
-
+  
+  ##
+  
+  
 </div>
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
