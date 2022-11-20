@@ -1,9 +1,9 @@
-<img width=100% src="https://user-images.githubusercontent.com/116471568/202914479-5bb93d2b-5fd2-4459-9736-f269a1811931.gif"/>
+<img width=100% src="https://user-images.githubusercontent.com/116471568/202915093-df534048-6d1f-43be-90dd-51b77560b252.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 
-## 😃️ Sobre mim
+## Sobre mim
 <div align='center'>
   <b>“Se isso te assusta, vale a pena tentar.” – Seth Godin</b>
 </div><br>
