@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
+##
 
-## Sobre mim
+<b> SOBRE MIM </b>
 <div align='center'>
 </div>
 
