@@ -19,7 +19,7 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   
   
   
-Redes:
+🟨 Redes:
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@ Redes:
     
   ##
   
-  Studying in this moment:
+ 🟨 Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="html"src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
   <img align="center" alt="css" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white />
@@ -42,7 +42,7 @@ Redes:
   
   ##
   
-  Skills Design:
+ 🟨 Skills Design:
 <div style="display: inline_block">
   <img align="center" alt="ADB"src=https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white />
   <img align="center" alt="ADB" src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6/>
