@@ -26,7 +26,7 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <img align="right" alt="keth-pic" height="130" style="border-radius:50px;" 
-        src="https://user-images.githubusercontent.com/116471568/202913995-b2b73ddc-2aee-4dc0-8bce-21684677f59d.gif">
+        src="https://user-images.githubusercontent.com/116471568/202917849-af430482-af3f-486f-a14d-59cbd3c7b892.gif">
 </div>
   
 #
