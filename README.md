@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 
 ## 😃️ Sobre mim
