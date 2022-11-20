@@ -44,9 +44,10 @@ Redes:
   
   Skills Design:
 <div style="display: inline_block">
-  <img align="center" alt="html"src=https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white />
-  <img align="center" alt="css" src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black/>
-  <img align="center" alt="SQL" src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6/>
+  <img align="center" alt="ADB"src=https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white />
+  <img align="center" alt="ADB" src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6/>
+  <img align="center" alt="ADB" src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black>
+  <img align="center" alt="ADB" src=https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white>
 </div>
   
 </div> 
