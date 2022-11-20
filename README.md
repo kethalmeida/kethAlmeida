@@ -18,24 +18,34 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   
   
   
-🪧
-</div>
+Redes
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <img align="right" alt="keth-pic" height="130" style="border-radius:50px;" 
+   <img align="right" alt="keth-pic" height="180" style="border-radius:50px;" 
         src="https://user-images.githubusercontent.com/116471568/202917849-af430482-af3f-486f-a14d-59cbd3c7b892.gif">
 </div>
+    
+  ##
   
-#
+  Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="html"src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
   <img align="center" alt="css" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white />
   <img align="center" alt="SQL" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
   <img align="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
   <img align="center" alt="jira"  src=	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />  
+</div>
+  
+  ##
+  
+  Skills Design:
+<div style="display: inline_block">
+  <img align="center" alt="html"src=https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white />
+  <img align="center" alt="css" src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black/>
+  <img align="center" alt="SQL" src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6/>
 </div>
   
 </div> 
