@@ -19,9 +19,8 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ##
   
-  
+ ⭐️Redes  
 </div>
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -32,9 +31,7 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
         src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif">
 </div>
   
-  ##
-  
- 
+⭐️ Skills: 
 <div style="display: inline_block">
   <img align="center" alt="html"src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
   <img align="center" alt="css" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white />
