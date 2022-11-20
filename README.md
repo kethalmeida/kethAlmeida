@@ -19,6 +19,7 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+  #
   
  ⭐️Redes  
 </div>
@@ -27,9 +28,10 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
   <a href = "mailto:almeidasantoskethler@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kethler-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/kethler23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" 
+   <img align="right" alt="keth-pic" height="130" style="border-radius:50px;" 
         src="https://user-images.githubusercontent.com/116471568/202871891-ca0d0686-29a1-456d-b07f-73ccbe15fa33.gif">
 </div>
+  
   
 ⭐️ Skills: 
 <div style="display: inline_block">
