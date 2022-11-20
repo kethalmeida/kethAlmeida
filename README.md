@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+KETHLER+SANTOS;TENHO+24+ANOS+;+SOU+ESTUDANTE+DE+QUALIDADE+E+TESTE+DE+SOFTWARE;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
-##
 
 <b> SOBRE MIM </b>
 <div align='center'>
@@ -10,7 +9,9 @@
 
 Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou em mim uma paixão pela Tecnologia. Atualmente estou estudando/cursando Teste e Qualidade de Software na Ultima.School, onde ao longo do curso aprendo sobre compreensão do ciclo de vida de desenvolvimento de software, elaboração de roteiro de teste e relatório de defeitos, uso de programação orientada a objetos entre outros tópicos que me preparam para o mercado de trabalho. 
 
+##
 
+🟨 GitHub Stats:
 <div align="center">
   <a href="https://github.com/kethalmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=cobalt&theme=cobalt&include_all_commits=true&count_private=true"/>
