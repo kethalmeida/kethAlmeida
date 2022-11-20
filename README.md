@@ -15,8 +15,8 @@ Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou 
 
 <div align="center">
   <a href="https://github.com/kethalmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=radical&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kethalmeida&show_icons=cobalt&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethalmeida&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   
