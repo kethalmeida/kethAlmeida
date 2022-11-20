@@ -5,12 +5,9 @@
 
 ## Sobre mim
 <div align='center'>
-  <b>“Se isso te assusta, vale a pena tentar.” – Seth Godin</b>
-</div><br>
+</div>
 
 Sou formada em Arquitetura e Urbanismo, e a algum tempo a curiosidade despertou em mim uma paixão pela Tecnologia. Atualmente estou estudando/cursando Teste e Qualidade de Software na Ultima.School, onde ao longo do curso aprendo sobre compreensão do ciclo de vida de desenvolvimento de software, elaboração de roteiro de teste e relatório de defeitos, uso de programação orientada a objetos entre outros tópicos que me preparam para o mercado de trabalho. 
-
-
 
 
 <div align="center">
